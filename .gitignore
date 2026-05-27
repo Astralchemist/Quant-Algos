@@ -80,3 +80,4 @@ trade_logs/
 
 # OS
 Thumbs.db
+.patches/
